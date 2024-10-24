@@ -1,0 +1,1305 @@
+fileFormatVersion: 2
+guid: eca21957bedad2d4a98e7a8464bd4b96
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: -8548100457040718618
+    second: default01|Cylinder01.001|Take 001|BaseLayer
+  - first:
+      74: -7733031039833635517
+    second: default01|Cylinder01.002|Take 001|BaseLayer
+  - first:
+      74: 1104495553870295147
+    second: default01|Cylinder01.003|Take 001|BaseLayer
+  - first:
+      74: -4809040273784933478
+    second: default01|Cylinder01.004|Take 001|BaseLayer
+  - first:
+      74: 8636659858668704712
+    second: default01|Cylinder01.005|Take 001|BaseLayer
+  - first:
+      74: 8578646922707020693
+    second: default01|Cylinder01.006|Take 001|BaseLayer
+  - first:
+      74: -4628714452821391894
+    second: default01|Cylinder01.007|Take 001|BaseLayer
+  - first:
+      74: 520996560659821956
+    second: default01|Cylinder01|Take 001|BaseLayer
+  - first:
+      74: -7775116173957478480
+    second: default01|default.001|Take 001|BaseLayer
+  - first:
+      74: 1346202893879032159
+    second: default01|default.002|Take 001|BaseLayer
+  - first:
+      74: 4912556937846052011
+    second: default01|default.003|Take 001|BaseLayer
+  - first:
+      74: -4971110519602180239
+    second: default01|default.004|Take 001|BaseLayer
+  - first:
+      74: 4905953446905107658
+    second: default01|default.005|Take 001|BaseLayer
+  - first:
+      74: -9008064113245123897
+    second: default01|default.006|Take 001|BaseLayer
+  - first:
+      74: -3315456353571306783
+    second: default01|default.007|Take 001|BaseLayer
+  - first:
+      74: -8526292678980735390
+    second: default01|default01|Take 001|BaseLayer
+  - first:
+      74: 4220397834611243786
+    second: default01|default|Take 001|BaseLayer
+  - first:
+      74: -5109524319772045073
+    second: default01|dolphin_exp4|Take 001|BaseLayer
+  - first:
+      74: 1660156391100229630
+    second: default01|objRetopoObject1.001|Take 001|BaseLayer
+  - first:
+      74: 3224743066944645113
+    second: default01|objRetopoObject1|Take 001|BaseLayer
+  - first:
+      74: 1546394437688345490
+    second: Cylinder01|Cylinder01.001|Take 001|BaseLayer
+  - first:
+      74: 5671188210062956762
+    second: Cylinder01|Cylinder01.002|Take 001|BaseLayer
+  - first:
+      74: 192601030621275886
+    second: Cylinder01|Cylinder01.003|Take 001|BaseLayer
+  - first:
+      74: -1816437435780397465
+    second: Cylinder01|Cylinder01.004|Take 001|BaseLayer
+  - first:
+      74: -5739760419560773473
+    second: Cylinder01|Cylinder01.005|Take 001|BaseLayer
+  - first:
+      74: -4799483736449828362
+    second: Cylinder01|Cylinder01.006|Take 001|BaseLayer
+  - first:
+      74: -2342597379585254787
+    second: Cylinder01|Cylinder01.007|Take 001|BaseLayer
+  - first:
+      74: -8083450820745307859
+    second: Cylinder01|Cylinder01|Take 001|BaseLayer
+  - first:
+      74: -3981779594016826505
+    second: Cylinder01|default.001|Take 001|BaseLayer
+  - first:
+      74: -2019847908713968888
+    second: Cylinder01|default.002|Take 001|BaseLayer
+  - first:
+      74: 295051840305010943
+    second: Cylinder01|default.003|Take 001|BaseLayer
+  - first:
+      74: 6542982428937800477
+    second: Cylinder01|default.004|Take 001|BaseLayer
+  - first:
+      74: 8868328297349944294
+    second: Cylinder01|default.005|Take 001|BaseLayer
+  - first:
+      74: -2814157496679432668
+    second: Cylinder01|default.006|Take 001|BaseLayer
+  - first:
+      74: -8065847359733052910
+    second: Cylinder01|default.007|Take 001|BaseLayer
+  - first:
+      74: -5023293458689227592
+    second: Cylinder01|default01|Take 001|BaseLayer
+  - first:
+      74: 8976159560044499254
+    second: Cylinder01|default|Take 001|BaseLayer
+  - first:
+      74: -8002693639941970913
+    second: Cylinder01|dolphin_exp4|Take 001|BaseLayer
+  - first:
+      74: -3868946097961974679
+    second: Cylinder01|objRetopoObject1.001|Take 001|BaseLayer
+  - first:
+      74: -1255232116583025910
+    second: Cylinder01|objRetopoObject1|Take 001|BaseLayer
+  - first:
+      74: 4072086639707272349
+    second: default|Cylinder01.001|Take 001|BaseLayer
+  - first:
+      74: -6947522587699570784
+    second: default|Cylinder01.002|Take 001|BaseLayer
+  - first:
+      74: -5003390199070906667
+    second: default|Cylinder01.003|Take 001|BaseLayer
+  - first:
+      74: 1415896008450442782
+    second: default|Cylinder01.004|Take 001|BaseLayer
+  - first:
+      74: 1757135167770514770
+    second: default|Cylinder01.005|Take 001|BaseLayer
+  - first:
+      74: 585672110102880989
+    second: default|Cylinder01.006|Take 001|BaseLayer
+  - first:
+      74: 9078519514244451937
+    second: default|Cylinder01.007|Take 001|BaseLayer
+  - first:
+      74: -4829741671036269676
+    second: default|Cylinder01|Take 001|BaseLayer
+  - first:
+      74: 2238446964587464653
+    second: default|default.001|Take 001|BaseLayer
+  - first:
+      74: -1356839615254747445
+    second: default|default.002|Take 001|BaseLayer
+  - first:
+      74: -3702171557230270058
+    second: default|default.003|Take 001|BaseLayer
+  - first:
+      74: 5863021602768163425
+    second: default|default.004|Take 001|BaseLayer
+  - first:
+      74: 6006039037275262944
+    second: default|default.005|Take 001|BaseLayer
+  - first:
+      74: 2424734407167960478
+    second: default|default.006|Take 001|BaseLayer
+  - first:
+      74: -5590402535014146330
+    second: default|default.007|Take 001|BaseLayer
+  - first:
+      74: -8489641351243205529
+    second: default|default01|Take 001|BaseLayer
+  - first:
+      74: 4016434560172900335
+    second: default|default|Take 001|BaseLayer
+  - first:
+      74: -5548715727026120204
+    second: default|dolphin_exp4|Take 001|BaseLayer
+  - first:
+      74: -7115965527372649323
+    second: default|objRetopoObject1.001|Take 001|BaseLayer
+  - first:
+      74: 2656694458993329649
+    second: default|objRetopoObject1|Take 001|BaseLayer
+  - first:
+      74: 7158495694207647104
+    second: Cylinder01.001|Cylinder01.001|Take 001|BaseLayer
+  - first:
+      74: -8770935829724689022
+    second: Cylinder01.001|Cylinder01.002|Take 001|BaseLayer
+  - first:
+      74: 3882970062552451484
+    second: Cylinder01.001|Cylinder01.003|Take 001|BaseLayer
+  - first:
+      74: 8553743506336348098
+    second: Cylinder01.001|Cylinder01.004|Take 001|BaseLayer
+  - first:
+      74: -4637368157897353422
+    second: Cylinder01.001|Cylinder01.005|Take 001|BaseLayer
+  - first:
+      74: -3978012800784656942
+    second: Cylinder01.001|Cylinder01.006|Take 001|BaseLayer
+  - first:
+      74: 8362494377199111270
+    second: Cylinder01.001|Cylinder01.007|Take 001|BaseLayer
+  - first:
+      74: 5598499056674299545
+    second: Cylinder01.001|Cylinder01|Take 001|BaseLayer
+  - first:
+      74: 6683277220713659784
+    second: Cylinder01.001|default.001|Take 001|BaseLayer
+  - first:
+      74: -3309207218951915855
+    second: Cylinder01.001|default.002|Take 001|BaseLayer
+  - first:
+      74: 5371513427717235420
+    second: Cylinder01.001|default.003|Take 001|BaseLayer
+  - first:
+      74: 5157498168192357842
+    second: Cylinder01.001|default.004|Take 001|BaseLayer
+  - first:
+      74: -6132645168025723384
+    second: Cylinder01.001|default.005|Take 001|BaseLayer
+  - first:
+      74: 453366205041405753
+    second: Cylinder01.001|default.006|Take 001|BaseLayer
+  - first:
+      74: -4959794668650294357
+    second: Cylinder01.001|default.007|Take 001|BaseLayer
+  - first:
+      74: -1967023967552067988
+    second: Cylinder01.001|default01|Take 001|BaseLayer
+  - first:
+      74: -7031157477187213435
+    second: Cylinder01.001|default|Take 001|BaseLayer
+  - first:
+      74: -6847904222755457256
+    second: Cylinder01.001|dolphin_exp4|Take 001|BaseLayer
+  - first:
+      74: -8179997461075377763
+    second: Cylinder01.001|objRetopoObject1.001|Take 001|BaseLayer
+  - first:
+      74: -1077741368348265364
+    second: Cylinder01.001|objRetopoObject1|Take 001|BaseLayer
+  - first:
+      74: -4041565033772468223
+    second: objRetopoObject1|Cylinder01.001|Take 001|BaseLayer
+  - first:
+      74: -2138551875950582833
+    second: objRetopoObject1|Cylinder01.002|Take 001|BaseLayer
+  - first:
+      74: 2809540634600323761
+    second: objRetopoObject1|Cylinder01.003|Take 001|BaseLayer
+  - first:
+      74: 5526075493618730600
+    second: objRetopoObject1|Cylinder01.004|Take 001|BaseLayer
+  - first:
+      74: -3756934651969755098
+    second: objRetopoObject1|Cylinder01.005|Take 001|BaseLayer
+  - first:
+      74: 4201084172263807126
+    second: objRetopoObject1|Cylinder01.006|Take 001|BaseLayer
+  - first:
+      74: 7162610691371240166
+    second: objRetopoObject1|Cylinder01.007|Take 001|BaseLayer
+  - first:
+      74: -1989694301697596648
+    second: objRetopoObject1|Cylinder01|Take 001|BaseLayer
+  - first:
+      74: -5353625513023063627
+    second: objRetopoObject1|default.001|Take 001|BaseLayer
+  - first:
+      74: 5609700794808200198
+    second: objRetopoObject1|default.002|Take 001|BaseLayer
+  - first:
+      74: 1493754220711458411
+    second: objRetopoObject1|default.003|Take 001|BaseLayer
+  - first:
+      74: 7133322550145273147
+    second: objRetopoObject1|default.004|Take 001|BaseLayer
+  - first:
+      74: 2531338710538891341
+    second: objRetopoObject1|default.005|Take 001|BaseLayer
+  - first:
+      74: -7004404643641902714
+    second: objRetopoObject1|default.006|Take 001|BaseLayer
+  - first:
+      74: 4473946237073872434
+    second: objRetopoObject1|default.007|Take 001|BaseLayer
+  - first:
+      74: -683928024226350875
+    second: objRetopoObject1|default01|Take 001|BaseLayer
+  - first:
+      74: 3458129507960415322
+    second: objRetopoObject1|default|Take 001|BaseLayer
+  - first:
+      74: 6622891422438265609
+    second: objRetopoObject1|dolphin_exp4|Take 001|BaseLayer
+  - first:
+      74: -3588588679633190272
+    second: objRetopoObject1|objRetopoObject1.001|Take 001|BaseLayer
+  - first:
+      74: 5399923294838400659
+    second: objRetopoObject1|objRetopoObject1|Take 001|BaseLayer
+  - first:
+      74: -7722259246768547333
+    second: Cylinder01.002|Cylinder01.001|Take 001|BaseLayer
+  - first:
+      74: 2947105554259583686
+    second: Cylinder01.002|Cylinder01.002|Take 001|BaseLayer
+  - first:
+      74: -7520392846688500180
+    second: Cylinder01.002|Cylinder01.003|Take 001|BaseLayer
+  - first:
+      74: 4949524932275128470
+    second: Cylinder01.002|Cylinder01.004|Take 001|BaseLayer
+  - first:
+      74: -2756321969292908038
+    second: Cylinder01.002|Cylinder01.005|Take 001|BaseLayer
+  - first:
+      74: -1361526263461274143
+    second: Cylinder01.002|Cylinder01.006|Take 001|BaseLayer
+  - first:
+      74: -408930743374560763
+    second: Cylinder01.002|Cylinder01.007|Take 001|BaseLayer
+  - first:
+      74: -5299666077229411557
+    second: Cylinder01.002|Cylinder01|Take 001|BaseLayer
+  - first:
+      74: 7319112315243592608
+    second: Cylinder01.002|default.001|Take 001|BaseLayer
+  - first:
+      74: 4524231455812532068
+    second: Cylinder01.002|default.002|Take 001|BaseLayer
+  - first:
+      74: -1049153746096266136
+    second: Cylinder01.002|default.003|Take 001|BaseLayer
+  - first:
+      74: -3763208728232455156
+    second: Cylinder01.002|default.004|Take 001|BaseLayer
+  - first:
+      74: 971890623470518926
+    second: Cylinder01.002|default.005|Take 001|BaseLayer
+  - first:
+      74: -8740502739088641047
+    second: Cylinder01.002|default.006|Take 001|BaseLayer
+  - first:
+      74: 1499375834529768676
+    second: Cylinder01.002|default.007|Take 001|BaseLayer
+  - first:
+      74: -6334214682329565739
+    second: Cylinder01.002|default01|Take 001|BaseLayer
+  - first:
+      74: 4250585071302332103
+    second: Cylinder01.002|default|Take 001|BaseLayer
+  - first:
+      74: 6370477997002856698
+    second: Cylinder01.002|dolphin_exp4|Take 001|BaseLayer
+  - first:
+      74: -4682879820965948414
+    second: Cylinder01.002|objRetopoObject1.001|Take 001|BaseLayer
+  - first:
+      74: 1577444256181894717
+    second: Cylinder01.002|objRetopoObject1|Take 001|BaseLayer
+  - first:
+      74: 3281802915410626728
+    second: dolphin_exp4|Cylinder01.001|Take 001|BaseLayer
+  - first:
+      74: 3613655891325081461
+    second: dolphin_exp4|Cylinder01.002|Take 001|BaseLayer
+  - first:
+      74: 3262175167731545102
+    second: dolphin_exp4|Cylinder01.003|Take 001|BaseLayer
+  - first:
+      74: 4515311269134543192
+    second: dolphin_exp4|Cylinder01.004|Take 001|BaseLayer
+  - first:
+      74: -3026224097641237462
+    second: dolphin_exp4|Cylinder01.005|Take 001|BaseLayer
+  - first:
+      74: 9071784578047426679
+    second: dolphin_exp4|Cylinder01.006|Take 001|BaseLayer
+  - first:
+      74: -7271295545448915448
+    second: dolphin_exp4|Cylinder01.007|Take 001|BaseLayer
+  - first:
+      74: -8513495777608895523
+    second: dolphin_exp4|Cylinder01|Take 001|BaseLayer
+  - first:
+      74: -8174738191509370012
+    second: dolphin_exp4|default.001|Take 001|BaseLayer
+  - first:
+      74: -5331161068336384480
+    second: dolphin_exp4|default.002|Take 001|BaseLayer
+  - first:
+      74: -4955738558915603983
+    second: dolphin_exp4|default.003|Take 001|BaseLayer
+  - first:
+      74: -5036606608287859998
+    second: dolphin_exp4|default.004|Take 001|BaseLayer
+  - first:
+      74: 1512246551328664447
+    second: dolphin_exp4|default.005|Take 001|BaseLayer
+  - first:
+      74: 4719825164724094092
+    second: dolphin_exp4|default.006|Take 001|BaseLayer
+  - first:
+      74: 6914788113568223378
+    second: dolphin_exp4|default.007|Take 001|BaseLayer
+  - first:
+      74: -6058486511091597789
+    second: dolphin_exp4|default01|Take 001|BaseLayer
+  - first:
+      74: 4516246362332892631
+    second: dolphin_exp4|default|Take 001|BaseLayer
+  - first:
+      74: -4261076481365842200
+    second: dolphin_exp4|dolphin_exp4|Take 001|BaseLayer
+  - first:
+      74: 32440605440371323
+    second: dolphin_exp4|objRetopoObject1.001|Take 001|BaseLayer
+  - first:
+      74: -2360868796571333430
+    second: dolphin_exp4|objRetopoObject1|Take 001|BaseLayer
+  - first:
+      74: -6170220520419999062
+    second: default.001|Cylinder01.001|Take 001|BaseLayer
+  - first:
+      74: 6043744524862057418
+    second: default.001|Cylinder01.002|Take 001|BaseLayer
+  - first:
+      74: 1188028049189129950
+    second: default.001|Cylinder01.003|Take 001|BaseLayer
+  - first:
+      74: -5000099951034839297
+    second: default.001|Cylinder01.004|Take 001|BaseLayer
+  - first:
+      74: 4430527595956651904
+    second: default.001|Cylinder01.005|Take 001|BaseLayer
+  - first:
+      74: 5695179513995675808
+    second: default.001|Cylinder01.006|Take 001|BaseLayer
+  - first:
+      74: -5196355778551039333
+    second: default.001|Cylinder01.007|Take 001|BaseLayer
+  - first:
+      74: 7696742690576524463
+    second: default.001|Cylinder01|Take 001|BaseLayer
+  - first:
+      74: 8023638056287257353
+    second: default.001|default.001|Take 001|BaseLayer
+  - first:
+      74: 4172277205514849007
+    second: default.001|default.002|Take 001|BaseLayer
+  - first:
+      74: -7420330923963062248
+    second: default.001|default.003|Take 001|BaseLayer
+  - first:
+      74: 1010320789867067810
+    second: default.001|default.004|Take 001|BaseLayer
+  - first:
+      74: 6120063737712361930
+    second: default.001|default.005|Take 001|BaseLayer
+  - first:
+      74: -6507853200306942454
+    second: default.001|default.006|Take 001|BaseLayer
+  - first:
+      74: -4881503536090120015
+    second: default.001|default.007|Take 001|BaseLayer
+  - first:
+      74: 8503547793155358247
+    second: default.001|default01|Take 001|BaseLayer
+  - first:
+      74: 5772899569021311792
+    second: default.001|default|Take 001|BaseLayer
+  - first:
+      74: 2555620611607517643
+    second: default.001|dolphin_exp4|Take 001|BaseLayer
+  - first:
+      74: -2673492695970114951
+    second: default.001|objRetopoObject1.001|Take 001|BaseLayer
+  - first:
+      74: -2917618355920634995
+    second: default.001|objRetopoObject1|Take 001|BaseLayer
+  - first:
+      74: 3339624228116866016
+    second: default.002|Cylinder01.001|Take 001|BaseLayer
+  - first:
+      74: 5028269292986687623
+    second: default.002|Cylinder01.002|Take 001|BaseLayer
+  - first:
+      74: 4724750589727392144
+    second: default.002|Cylinder01.003|Take 001|BaseLayer
+  - first:
+      74: 5443966565804432345
+    second: default.002|Cylinder01.004|Take 001|BaseLayer
+  - first:
+      74: 380038558715934384
+    second: default.002|Cylinder01.005|Take 001|BaseLayer
+  - first:
+      74: 2745007287669843567
+    second: default.002|Cylinder01.006|Take 001|BaseLayer
+  - first:
+      74: -3938929427094749102
+    second: default.002|Cylinder01.007|Take 001|BaseLayer
+  - first:
+      74: 5343387682139110805
+    second: default.002|Cylinder01|Take 001|BaseLayer
+  - first:
+      74: 1023340842970364135
+    second: default.002|default.001|Take 001|BaseLayer
+  - first:
+      74: -6689840501227304216
+    second: default.002|default.002|Take 001|BaseLayer
+  - first:
+      74: 5707367709972975957
+    second: default.002|default.003|Take 001|BaseLayer
+  - first:
+      74: -5168839675273655516
+    second: default.002|default.004|Take 001|BaseLayer
+  - first:
+      74: 9021864744352214684
+    second: default.002|default.005|Take 001|BaseLayer
+  - first:
+      74: -1141059838621043210
+    second: default.002|default.006|Take 001|BaseLayer
+  - first:
+      74: -6596652695016561719
+    second: default.002|default.007|Take 001|BaseLayer
+  - first:
+      74: 6679556406226846791
+    second: default.002|default01|Take 001|BaseLayer
+  - first:
+      74: 3741344786247296225
+    second: default.002|default|Take 001|BaseLayer
+  - first:
+      74: -2324802148431373404
+    second: default.002|dolphin_exp4|Take 001|BaseLayer
+  - first:
+      74: -4262669026414027757
+    second: default.002|objRetopoObject1.001|Take 001|BaseLayer
+  - first:
+      74: -283870266268004145
+    second: default.002|objRetopoObject1|Take 001|BaseLayer
+  - first:
+      74: -2239803083564685662
+    second: Cylinder01.003|Cylinder01.001|Take 001|BaseLayer
+  - first:
+      74: -5452379372836197542
+    second: Cylinder01.003|Cylinder01.002|Take 001|BaseLayer
+  - first:
+      74: 8781773167674543332
+    second: Cylinder01.003|Cylinder01.003|Take 001|BaseLayer
+  - first:
+      74: 6771914211315631855
+    second: Cylinder01.003|Cylinder01.004|Take 001|BaseLayer
+  - first:
+      74: -434334281266950938
+    second: Cylinder01.003|Cylinder01.005|Take 001|BaseLayer
+  - first:
+      74: 7330136512972991070
+    second: Cylinder01.003|Cylinder01.006|Take 001|BaseLayer
+  - first:
+      74: -4282034358990741978
+    second: Cylinder01.003|Cylinder01.007|Take 001|BaseLayer
+  - first:
+      74: 6335384075083158660
+    second: Cylinder01.003|Cylinder01|Take 001|BaseLayer
+  - first:
+      74: -7362584071235487243
+    second: Cylinder01.003|default.001|Take 001|BaseLayer
+  - first:
+      74: 1724927366274044776
+    second: Cylinder01.003|default.002|Take 001|BaseLayer
+  - first:
+      74: -6545206666760907290
+    second: Cylinder01.003|default.003|Take 001|BaseLayer
+  - first:
+      74: -4149424086478634346
+    second: Cylinder01.003|default.004|Take 001|BaseLayer
+  - first:
+      74: -7186201481779684124
+    second: Cylinder01.003|default.005|Take 001|BaseLayer
+  - first:
+      74: -8709803177315603934
+    second: Cylinder01.003|default.006|Take 001|BaseLayer
+  - first:
+      74: -2956751275772697957
+    second: Cylinder01.003|default.007|Take 001|BaseLayer
+  - first:
+      74: 8773583362669023653
+    second: Cylinder01.003|default01|Take 001|BaseLayer
+  - first:
+      74: -2478385787988187032
+    second: Cylinder01.003|default|Take 001|BaseLayer
+  - first:
+      74: 6021404882315082706
+    second: Cylinder01.003|dolphin_exp4|Take 001|BaseLayer
+  - first:
+      74: -5923507575253707310
+    second: Cylinder01.003|objRetopoObject1.001|Take 001|BaseLayer
+  - first:
+      74: 9005996985713447581
+    second: Cylinder01.003|objRetopoObject1|Take 001|BaseLayer
+  - first:
+      74: 3241616688586909237
+    second: Cylinder01.004|Cylinder01.001|Take 001|BaseLayer
+  - first:
+      74: -5694146961941326574
+    second: Cylinder01.004|Cylinder01.002|Take 001|BaseLayer
+  - first:
+      74: 2128870516565764625
+    second: Cylinder01.004|Cylinder01.003|Take 001|BaseLayer
+  - first:
+      74: 6399287950018531325
+    second: Cylinder01.004|Cylinder01.004|Take 001|BaseLayer
+  - first:
+      74: -1460250801199692938
+    second: Cylinder01.004|Cylinder01.005|Take 001|BaseLayer
+  - first:
+      74: -7133854375241776918
+    second: Cylinder01.004|Cylinder01.006|Take 001|BaseLayer
+  - first:
+      74: -7245385190991406191
+    second: Cylinder01.004|Cylinder01.007|Take 001|BaseLayer
+  - first:
+      74: -7469568550270914026
+    second: Cylinder01.004|Cylinder01|Take 001|BaseLayer
+  - first:
+      74: -6570610759635112614
+    second: Cylinder01.004|default.001|Take 001|BaseLayer
+  - first:
+      74: -4496328114507651612
+    second: Cylinder01.004|default.002|Take 001|BaseLayer
+  - first:
+      74: -4414259438229451228
+    second: Cylinder01.004|default.003|Take 001|BaseLayer
+  - first:
+      74: 8229215373082208197
+    second: Cylinder01.004|default.004|Take 001|BaseLayer
+  - first:
+      74: 2222075879417507141
+    second: Cylinder01.004|default.005|Take 001|BaseLayer
+  - first:
+      74: -3801841152217586356
+    second: Cylinder01.004|default.006|Take 001|BaseLayer
+  - first:
+      74: 8434592685276694213
+    second: Cylinder01.004|default.007|Take 001|BaseLayer
+  - first:
+      74: -7584656630678376380
+    second: Cylinder01.004|default01|Take 001|BaseLayer
+  - first:
+      74: 5702492589883693793
+    second: Cylinder01.004|default|Take 001|BaseLayer
+  - first:
+      74: 7036871374770600768
+    second: Cylinder01.004|dolphin_exp4|Take 001|BaseLayer
+  - first:
+      74: 8194763455932041878
+    second: Cylinder01.004|objRetopoObject1.001|Take 001|BaseLayer
+  - first:
+      74: -1285581432776080408
+    second: Cylinder01.004|objRetopoObject1|Take 001|BaseLayer
+  - first:
+      74: 2166772068706402205
+    second: default.003|Cylinder01.001|Take 001|BaseLayer
+  - first:
+      74: 209584910204371073
+    second: default.003|Cylinder01.002|Take 001|BaseLayer
+  - first:
+      74: 7285452287957239000
+    second: default.003|Cylinder01.003|Take 001|BaseLayer
+  - first:
+      74: -1303600966329744269
+    second: default.003|Cylinder01.004|Take 001|BaseLayer
+  - first:
+      74: -7550283105105515509
+    second: default.003|Cylinder01.005|Take 001|BaseLayer
+  - first:
+      74: -4214575593202905824
+    second: default.003|Cylinder01.006|Take 001|BaseLayer
+  - first:
+      74: 8736074235627787677
+    second: default.003|Cylinder01.007|Take 001|BaseLayer
+  - first:
+      74: -2734077223121551026
+    second: default.003|Cylinder01|Take 001|BaseLayer
+  - first:
+      74: 8355642255269105286
+    second: default.003|default.001|Take 001|BaseLayer
+  - first:
+      74: 4577244914207123164
+    second: default.003|default.002|Take 001|BaseLayer
+  - first:
+      74: -2578334591744171126
+    second: default.003|default.003|Take 001|BaseLayer
+  - first:
+      74: -2863807838598947977
+    second: default.003|default.004|Take 001|BaseLayer
+  - first:
+      74: -8041895128206366129
+    second: default.003|default.005|Take 001|BaseLayer
+  - first:
+      74: -2559624716988950143
+    second: default.003|default.006|Take 001|BaseLayer
+  - first:
+      74: 1816749046957984659
+    second: default.003|default.007|Take 001|BaseLayer
+  - first:
+      74: -107399553824919393
+    second: default.003|default01|Take 001|BaseLayer
+  - first:
+      74: -2076738956825788441
+    second: default.003|default|Take 001|BaseLayer
+  - first:
+      74: -3875803647552187050
+    second: default.003|dolphin_exp4|Take 001|BaseLayer
+  - first:
+      74: -2349957013422314539
+    second: default.003|objRetopoObject1.001|Take 001|BaseLayer
+  - first:
+      74: 4015686392795541430
+    second: default.003|objRetopoObject1|Take 001|BaseLayer
+  - first:
+      74: -1431811124104957945
+    second: Cylinder01.005|Cylinder01.001|Take 001|BaseLayer
+  - first:
+      74: 5692909393810981772
+    second: Cylinder01.005|Cylinder01.002|Take 001|BaseLayer
+  - first:
+      74: 1298831409584778746
+    second: Cylinder01.005|Cylinder01.003|Take 001|BaseLayer
+  - first:
+      74: -3137888509460710947
+    second: Cylinder01.005|Cylinder01.004|Take 001|BaseLayer
+  - first:
+      74: -2604013848096988742
+    second: Cylinder01.005|Cylinder01.005|Take 001|BaseLayer
+  - first:
+      74: 8137000702292385219
+    second: Cylinder01.005|Cylinder01.006|Take 001|BaseLayer
+  - first:
+      74: 3982679592999121505
+    second: Cylinder01.005|Cylinder01.007|Take 001|BaseLayer
+  - first:
+      74: 5270019141542238348
+    second: Cylinder01.005|Cylinder01|Take 001|BaseLayer
+  - first:
+      74: -835878450662611321
+    second: Cylinder01.005|default.001|Take 001|BaseLayer
+  - first:
+      74: -7863802801494190278
+    second: Cylinder01.005|default.002|Take 001|BaseLayer
+  - first:
+      74: 6258315143737423682
+    second: Cylinder01.005|default.003|Take 001|BaseLayer
+  - first:
+      74: -8715868797956432750
+    second: Cylinder01.005|default.004|Take 001|BaseLayer
+  - first:
+      74: -8012058187269796568
+    second: Cylinder01.005|default.005|Take 001|BaseLayer
+  - first:
+      74: 8702798422751637487
+    second: Cylinder01.005|default.006|Take 001|BaseLayer
+  - first:
+      74: -2878101149237329689
+    second: Cylinder01.005|default.007|Take 001|BaseLayer
+  - first:
+      74: 4748523254560693860
+    second: Cylinder01.005|default01|Take 001|BaseLayer
+  - first:
+      74: -8196367621406133961
+    second: Cylinder01.005|default|Take 001|BaseLayer
+  - first:
+      74: 8864675571520325554
+    second: Cylinder01.005|dolphin_exp4|Take 001|BaseLayer
+  - first:
+      74: 3397411091422840267
+    second: Cylinder01.005|objRetopoObject1.001|Take 001|BaseLayer
+  - first:
+      74: -2717945404552947553
+    second: Cylinder01.005|objRetopoObject1|Take 001|BaseLayer
+  - first:
+      74: -4415215798642626598
+    second: default.004|Cylinder01.001|Take 001|BaseLayer
+  - first:
+      74: -5590877511280591588
+    second: default.004|Cylinder01.002|Take 001|BaseLayer
+  - first:
+      74: -8954726999898268938
+    second: default.004|Cylinder01.003|Take 001|BaseLayer
+  - first:
+      74: 5875656915319460643
+    second: default.004|Cylinder01.004|Take 001|BaseLayer
+  - first:
+      74: -8641619023862903034
+    second: default.004|Cylinder01.005|Take 001|BaseLayer
+  - first:
+      74: 1432397408668998380
+    second: default.004|Cylinder01.006|Take 001|BaseLayer
+  - first:
+      74: 5888945075392378567
+    second: default.004|Cylinder01.007|Take 001|BaseLayer
+  - first:
+      74: -4915190666376594725
+    second: default.004|Cylinder01|Take 001|BaseLayer
+  - first:
+      74: -7279599325839131519
+    second: default.004|default.001|Take 001|BaseLayer
+  - first:
+      74: 2994237659252355788
+    second: default.004|default.002|Take 001|BaseLayer
+  - first:
+      74: 8214967804682460568
+    second: default.004|default.003|Take 001|BaseLayer
+  - first:
+      74: -2138763295468100271
+    second: default.004|default.004|Take 001|BaseLayer
+  - first:
+      74: 3413447269401840189
+    second: default.004|default.005|Take 001|BaseLayer
+  - first:
+      74: -6394243311202975458
+    second: default.004|default.006|Take 001|BaseLayer
+  - first:
+      74: -8447731694715605774
+    second: default.004|default.007|Take 001|BaseLayer
+  - first:
+      74: 5624520089785594623
+    second: default.004|default01|Take 001|BaseLayer
+  - first:
+      74: -9032139764275249398
+    second: default.004|default|Take 001|BaseLayer
+  - first:
+      74: 259432081445193401
+    second: default.004|dolphin_exp4|Take 001|BaseLayer
+  - first:
+      74: 6424730420834812030
+    second: default.004|objRetopoObject1.001|Take 001|BaseLayer
+  - first:
+      74: -9116197916398360979
+    second: default.004|objRetopoObject1|Take 001|BaseLayer
+  - first:
+      74: -8745771751112865555
+    second: Cylinder01.006|Cylinder01.001|Take 001|BaseLayer
+  - first:
+      74: -4831570608953024864
+    second: Cylinder01.006|Cylinder01.002|Take 001|BaseLayer
+  - first:
+      74: 8818114492828602782
+    second: Cylinder01.006|Cylinder01.003|Take 001|BaseLayer
+  - first:
+      74: -897794710025947502
+    second: Cylinder01.006|Cylinder01.004|Take 001|BaseLayer
+  - first:
+      74: 8602497281679366532
+    second: Cylinder01.006|Cylinder01.005|Take 001|BaseLayer
+  - first:
+      74: -9152384051189646321
+    second: Cylinder01.006|Cylinder01.006|Take 001|BaseLayer
+  - first:
+      74: 4610008496630166707
+    second: Cylinder01.006|Cylinder01.007|Take 001|BaseLayer
+  - first:
+      74: -6714660483164081048
+    second: Cylinder01.006|Cylinder01|Take 001|BaseLayer
+  - first:
+      74: -6978580683053550052
+    second: Cylinder01.006|default.001|Take 001|BaseLayer
+  - first:
+      74: -7621437427459177738
+    second: Cylinder01.006|default.002|Take 001|BaseLayer
+  - first:
+      74: 2044969784004479755
+    second: Cylinder01.006|default.003|Take 001|BaseLayer
+  - first:
+      74: -7920357808170010339
+    second: Cylinder01.006|default.004|Take 001|BaseLayer
+  - first:
+      74: 795762171462224029
+    second: Cylinder01.006|default.005|Take 001|BaseLayer
+  - first:
+      74: -5385999953845144540
+    second: Cylinder01.006|default.006|Take 001|BaseLayer
+  - first:
+      74: -2512088957452050597
+    second: Cylinder01.006|default.007|Take 001|BaseLayer
+  - first:
+      74: 3946066642584336185
+    second: Cylinder01.006|default01|Take 001|BaseLayer
+  - first:
+      74: 6627350059255431645
+    second: Cylinder01.006|default|Take 001|BaseLayer
+  - first:
+      74: 5906020364815750795
+    second: Cylinder01.006|dolphin_exp4|Take 001|BaseLayer
+  - first:
+      74: -8526387671801977508
+    second: Cylinder01.006|objRetopoObject1.001|Take 001|BaseLayer
+  - first:
+      74: 8815787130375208915
+    second: Cylinder01.006|objRetopoObject1|Take 001|BaseLayer
+  - first:
+      74: -6877953375929410927
+    second: objRetopoObject1.001|Cylinder01.001|Take 001|BaseLayer
+  - first:
+      74: -4016729795477423466
+    second: objRetopoObject1.001|Cylinder01.002|Take 001|BaseLayer
+  - first:
+      74: 6466776180339334700
+    second: objRetopoObject1.001|Cylinder01.003|Take 001|BaseLayer
+  - first:
+      74: 1527030755494375433
+    second: objRetopoObject1.001|Cylinder01.004|Take 001|BaseLayer
+  - first:
+      74: -4781736609122220264
+    second: objRetopoObject1.001|Cylinder01.005|Take 001|BaseLayer
+  - first:
+      74: -8130910574348873597
+    second: objRetopoObject1.001|Cylinder01.006|Take 001|BaseLayer
+  - first:
+      74: 4259101135400028633
+    second: objRetopoObject1.001|Cylinder01.007|Take 001|BaseLayer
+  - first:
+      74: -7174346219802668129
+    second: objRetopoObject1.001|Cylinder01|Take 001|BaseLayer
+  - first:
+      74: -256153486558837181
+    second: objRetopoObject1.001|default.001|Take 001|BaseLayer
+  - first:
+      74: -8213795473539666369
+    second: objRetopoObject1.001|default.002|Take 001|BaseLayer
+  - first:
+      74: -3068107709075563057
+    second: objRetopoObject1.001|default.003|Take 001|BaseLayer
+  - first:
+      74: -214283681527589669
+    second: objRetopoObject1.001|default.004|Take 001|BaseLayer
+  - first:
+      74: -5689318402843982696
+    second: objRetopoObject1.001|default.005|Take 001|BaseLayer
+  - first:
+      74: -6532056446146145462
+    second: objRetopoObject1.001|default.006|Take 001|BaseLayer
+  - first:
+      74: 4930961742250129608
+    second: objRetopoObject1.001|default.007|Take 001|BaseLayer
+  - first:
+      74: -2745342816261072684
+    second: objRetopoObject1.001|default01|Take 001|BaseLayer
+  - first:
+      74: 6414471150543511512
+    second: objRetopoObject1.001|default|Take 001|BaseLayer
+  - first:
+      74: 3595279556775499627
+    second: objRetopoObject1.001|dolphin_exp4|Take 001|BaseLayer
+  - first:
+      74: 4470775078208614568
+    second: objRetopoObject1.001|objRetopoObject1.001|Take 001|BaseLayer
+  - first:
+      74: 7301930566978073489
+    second: objRetopoObject1.001|objRetopoObject1|Take 001|BaseLayer
+  - first:
+      74: 5614208230806439702
+    second: default.005|Cylinder01.001|Take 001|BaseLayer
+  - first:
+      74: 1401961396139110596
+    second: default.005|Cylinder01.002|Take 001|BaseLayer
+  - first:
+      74: -2012547159854771232
+    second: default.005|Cylinder01.003|Take 001|BaseLayer
+  - first:
+      74: 5983824742974027337
+    second: default.005|Cylinder01.004|Take 001|BaseLayer
+  - first:
+      74: 1672140720769338143
+    second: default.005|Cylinder01.005|Take 001|BaseLayer
+  - first:
+      74: 8451996973777305874
+    second: default.005|Cylinder01.006|Take 001|BaseLayer
+  - first:
+      74: -6913117928386761026
+    second: default.005|Cylinder01.007|Take 001|BaseLayer
+  - first:
+      74: -3490582371542045596
+    second: default.005|Cylinder01|Take 001|BaseLayer
+  - first:
+      74: 6902271272580186444
+    second: default.005|default.001|Take 001|BaseLayer
+  - first:
+      74: -3422278128725571345
+    second: default.005|default.002|Take 001|BaseLayer
+  - first:
+      74: -2843791048066647672
+    second: default.005|default.003|Take 001|BaseLayer
+  - first:
+      74: -7988877409034046173
+    second: default.005|default.004|Take 001|BaseLayer
+  - first:
+      74: 5505358321244965688
+    second: default.005|default.005|Take 001|BaseLayer
+  - first:
+      74: -5438063471334581864
+    second: default.005|default.006|Take 001|BaseLayer
+  - first:
+      74: -7080902120297509078
+    second: default.005|default.007|Take 001|BaseLayer
+  - first:
+      74: -9084515900710841669
+    second: default.005|default01|Take 001|BaseLayer
+  - first:
+      74: -6588494867808417929
+    second: default.005|default|Take 001|BaseLayer
+  - first:
+      74: 3926820802320674864
+    second: default.005|dolphin_exp4|Take 001|BaseLayer
+  - first:
+      74: 278846429537937511
+    second: default.005|objRetopoObject1.001|Take 001|BaseLayer
+  - first:
+      74: 4180614131169538461
+    second: default.005|objRetopoObject1|Take 001|BaseLayer
+  - first:
+      74: 5053310383357276446
+    second: default.006|Cylinder01.001|Take 001|BaseLayer
+  - first:
+      74: -4145290144685440806
+    second: default.006|Cylinder01.002|Take 001|BaseLayer
+  - first:
+      74: 6864778496168431205
+    second: default.006|Cylinder01.003|Take 001|BaseLayer
+  - first:
+      74: -8208969016230800008
+    second: default.006|Cylinder01.004|Take 001|BaseLayer
+  - first:
+      74: 6352393465013032492
+    second: default.006|Cylinder01.005|Take 001|BaseLayer
+  - first:
+      74: 4515403484744475597
+    second: default.006|Cylinder01.006|Take 001|BaseLayer
+  - first:
+      74: 4656486039652147432
+    second: default.006|Cylinder01.007|Take 001|BaseLayer
+  - first:
+      74: -5810312707200860224
+    second: default.006|Cylinder01|Take 001|BaseLayer
+  - first:
+      74: 5999711529115654366
+    second: default.006|default.001|Take 001|BaseLayer
+  - first:
+      74: 9093755602218957795
+    second: default.006|default.002|Take 001|BaseLayer
+  - first:
+      74: 7100668499663754920
+    second: default.006|default.003|Take 001|BaseLayer
+  - first:
+      74: 7839444928126987033
+    second: default.006|default.004|Take 001|BaseLayer
+  - first:
+      74: 6307375401879650388
+    second: default.006|default.005|Take 001|BaseLayer
+  - first:
+      74: -3985768881263401297
+    second: default.006|default.006|Take 001|BaseLayer
+  - first:
+      74: 3602340584743924002
+    second: default.006|default.007|Take 001|BaseLayer
+  - first:
+      74: 4154062919619730932
+    second: default.006|default01|Take 001|BaseLayer
+  - first:
+      74: -8787073961857596009
+    second: default.006|default|Take 001|BaseLayer
+  - first:
+      74: 294232040398270257
+    second: default.006|dolphin_exp4|Take 001|BaseLayer
+  - first:
+      74: 5611451531457306433
+    second: default.006|objRetopoObject1.001|Take 001|BaseLayer
+  - first:
+      74: -4154810379041181596
+    second: default.006|objRetopoObject1|Take 001|BaseLayer
+  - first:
+      74: -6772593916074861625
+    second: Cylinder01.007|Cylinder01.001|Take 001|BaseLayer
+  - first:
+      74: -3759422000187005638
+    second: Cylinder01.007|Cylinder01.002|Take 001|BaseLayer
+  - first:
+      74: -5320725718676548627
+    second: Cylinder01.007|Cylinder01.003|Take 001|BaseLayer
+  - first:
+      74: 1202244250422240366
+    second: Cylinder01.007|Cylinder01.004|Take 001|BaseLayer
+  - first:
+      74: 6584844494352305761
+    second: Cylinder01.007|Cylinder01.005|Take 001|BaseLayer
+  - first:
+      74: -5220409617317043881
+    second: Cylinder01.007|Cylinder01.006|Take 001|BaseLayer
+  - first:
+      74: 7867148763973257079
+    second: Cylinder01.007|Cylinder01.007|Take 001|BaseLayer
+  - first:
+      74: -4143334114900474026
+    second: Cylinder01.007|Cylinder01|Take 001|BaseLayer
+  - first:
+      74: -3368418754148186557
+    second: Cylinder01.007|default.001|Take 001|BaseLayer
+  - first:
+      74: 2782652271433486796
+    second: Cylinder01.007|default.002|Take 001|BaseLayer
+  - first:
+      74: -8602332932053333048
+    second: Cylinder01.007|default.003|Take 001|BaseLayer
+  - first:
+      74: -3587265138127898490
+    second: Cylinder01.007|default.004|Take 001|BaseLayer
+  - first:
+      74: -4289975062315193550
+    second: Cylinder01.007|default.005|Take 001|BaseLayer
+  - first:
+      74: -3577966164459975767
+    second: Cylinder01.007|default.006|Take 001|BaseLayer
+  - first:
+      74: 9035518656548087618
+    second: Cylinder01.007|default.007|Take 001|BaseLayer
+  - first:
+      74: 5224762435614439387
+    second: Cylinder01.007|default01|Take 001|BaseLayer
+  - first:
+      74: 4747917961021795631
+    second: Cylinder01.007|default|Take 001|BaseLayer
+  - first:
+      74: 6718551091854736700
+    second: Cylinder01.007|dolphin_exp4|Take 001|BaseLayer
+  - first:
+      74: -3446190411431986108
+    second: Cylinder01.007|objRetopoObject1.001|Take 001|BaseLayer
+  - first:
+      74: -1837048890650457698
+    second: Cylinder01.007|objRetopoObject1|Take 001|BaseLayer
+  - first:
+      74: 6788620284426372590
+    second: default.007|Cylinder01.001|Take 001|BaseLayer
+  - first:
+      74: -3479081936428419959
+    second: default.007|Cylinder01.002|Take 001|BaseLayer
+  - first:
+      74: 4802233579619801726
+    second: default.007|Cylinder01.003|Take 001|BaseLayer
+  - first:
+      74: -7847697246527362242
+    second: default.007|Cylinder01.004|Take 001|BaseLayer
+  - first:
+      74: 5922401607534588836
+    second: default.007|Cylinder01.005|Take 001|BaseLayer
+  - first:
+      74: 298672862828633269
+    second: default.007|Cylinder01.006|Take 001|BaseLayer
+  - first:
+      74: -2712357789115744399
+    second: default.007|Cylinder01.007|Take 001|BaseLayer
+  - first:
+      74: 5444622437887324052
+    second: default.007|Cylinder01|Take 001|BaseLayer
+  - first:
+      74: 7882322335965502272
+    second: default.007|default.001|Take 001|BaseLayer
+  - first:
+      74: 4484038238308428715
+    second: default.007|default.002|Take 001|BaseLayer
+  - first:
+      74: 2351215346825655913
+    second: default.007|default.003|Take 001|BaseLayer
+  - first:
+      74: 7878682611689946716
+    second: default.007|default.004|Take 001|BaseLayer
+  - first:
+      74: -429333619547369670
+    second: default.007|default.005|Take 001|BaseLayer
+  - first:
+      74: -328541090033864624
+    second: default.007|default.006|Take 001|BaseLayer
+  - first:
+      74: 5989205927791083803
+    second: default.007|default.007|Take 001|BaseLayer
+  - first:
+      74: 7362036411369137774
+    second: default.007|default01|Take 001|BaseLayer
+  - first:
+      74: 4609847317062270983
+    second: default.007|default|Take 001|BaseLayer
+  - first:
+      74: -6586707422398559967
+    second: default.007|dolphin_exp4|Take 001|BaseLayer
+  - first:
+      74: -7207407845354769237
+    second: default.007|objRetopoObject1.001|Take 001|BaseLayer
+  - first:
+      74: 4828466935920821561
+    second: default.007|objRetopoObject1|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
